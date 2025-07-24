@@ -14,9 +14,9 @@ timezone: "America/New_York"
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: J4ckris # the main title
+title: Bryan Lopez (aka:j4ckrisz) # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Hello there !! Here I showcase my personal blog, technical articles, and other interesting stuff. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Hello there !! Here I showcase my personal blog, technical articles, and other interesting stuff.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/favicon.ico
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
